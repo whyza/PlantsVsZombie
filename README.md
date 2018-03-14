@@ -15,6 +15,6 @@
 
 ###游戏效果
 
-![img](http://or9ffj2ek.bkt.clouddn.com/GIF2.gif) 
+![img](https://github.com/whyza/PlantsVsZombie/blob/master/GIF2.gif?raw=true) 
 
 ###还存在许多bug需要完善
