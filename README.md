@@ -15,6 +15,6 @@
 
 ###游戏效果
 
-<img src= "http://or9ffj2ek.bkt.clouddn.com/GIF2.gif" width="500" height="400">
+![img](http://or9ffj2ek.bkt.clouddn.com/GIF2.gif) 
 
 ###还存在许多bug需要完善
