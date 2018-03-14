@@ -1,0 +1,3 @@
+double jd = 90 - Math.atan2(飞机Y- 子弹Y, 飞机X - 子弹X) * 180 / Math.PI;
+子弹X = 子弹X + Math.sin(jd * Math.PI / 180) * 子弹速度;
+子弹Y = 子弹Y + Math.cos(jd  * Math.PI / 180) * 子弹速度;
