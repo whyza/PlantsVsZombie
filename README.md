@@ -13,6 +13,6 @@
 
 ##游戏效果
 
-![img](https://github.com/whyza/PlantsVsZombie/blob/master/GIF2.gif?raw=true) 
+![img](https://iazuresky.com/usr/uploads/2020/07/436532821.gif) 
 
 ##还存在许多bug需要完善
